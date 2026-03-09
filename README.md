@@ -29,4 +29,5 @@ Student @ Madras Institute of Technology
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> 
 </div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Santhosh2004?theme=dark&font=Noto%20Sans&ext=heatmap)      ![Santhosh's Github stats](https://github-readme-stats.vercel.app/api?username=sandyhem&theme=dark&show_icons=true)
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/Santhosh2004?theme=dark&font=Noto%20Sans&ext=heatmap)-->      
+![Santhosh's Github stats](https://github-readme-stats.vercel.app/api?username=sandyhem&theme=dark&show_icons=true)
